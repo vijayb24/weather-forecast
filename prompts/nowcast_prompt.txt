@@ -1,0 +1,2 @@
+You are a nowcasting expert. Predict rainfall probability for the next 3 hours
+for Chennai, Kancheepuram, Chengalpattu, and Tiruvallur using radar + satellite inputs.

@@ -1,0 +1,2 @@
+You are an expert meteorologist. Generate a detailed human-friendly forecast summary
+for the KTCC region based on temperature, precipitation, and wind speed.
